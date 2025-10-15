@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Full-Stack web developer with 2+ years of experience, focused on front-end design, usability, and user experience. Always curious and excited to learn something new.
+I'm a web developer with 2+ years of experience, focused on frontend design, usability, and user experience. Always curious and excited to learn something new.
 
 ## 💻 My Tech Stack
 
