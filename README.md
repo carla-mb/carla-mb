@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a web developer with 2+ years of experience, focused on frontend design, usability, and user experience. Always curious and excited to learn something new.
+I’m a tech-minded professional with a strong analytical background and experience in web development. I enjoy creating efficient, user-friendly solutions and improving processes through logic, structure, and continuous learning.
 
 ## 💻 My Tech Stack
 
-This repository showcases a comprehensive overview of the technologies I have used in my projects.
+This repository showcases the technologies I’ve worked with, as well as the tools I’m currently learning or using in personal projects.
 
 ## 🚀 Frontend Technologies
 
@@ -27,6 +27,7 @@ Technologies used for server-side logic, APIs, and business processes:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777B9B.svg?style=for-the-badge&logo=php&logoColor=white)
 
